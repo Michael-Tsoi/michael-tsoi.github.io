@@ -1,0 +1,15 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.michaeltsoi.homeitemmemo",
+        "sha256_cert_fingerprints": ["8A:0D:92:81:A3:F1:09:78:6F:1B:71:8A:7C:32:2E:E5:E2:16:5D:F3:57:AC:27:0A:81:71:3E:74:32:63:95:3E"]
+      }
+    }]
+
+
+
+
+
+
+
